@@ -8,4 +8,3 @@ public final class Main {
         System.out.println(Util.get(1337));
     }
 }
-
